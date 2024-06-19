@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am a developer passionate about creating robust 
 | [PPEAgent](https://github.com/kamilrybacki/PPEAgent) | A Python application designed to fetch and visualize data from Energa. PPEAgent supports Docker for easy deployment, making it an effective agent for data retrieval and visualization from Energa. | Python, HTML, Dockerfile |
 
 ## 🌱 What I'm Currently Working On
-I’m always exploring new technologies and working on projects that pique my interest. Currently, I’m diving deeper into Rust and its applications in system programming and high-performance computing.
+I’m always exploring new technologies and working on projects that pique my interest. Currently, I’m diving deeper into developing applications in system programming, high-performance computing and infrastructure management.
 
 ## 📫 How to Reach Me
 - **Website**: [kamilrybacki.github.io](https://kamilrybacki.gda.pl)
